@@ -1,0 +1,20 @@
+This project consists of both HTML and CSS components for a food delivery website, designed to provide a visually appealing and user-friendly interface. Here’s an overall description of the structure and styling:
+
+HTML Structure
+Header Section: Contains the navigation menu with links to different sections of the website like home, menu, offers, and more.
+Banner Section: Features a large background image with a heading and description, promoting the website’s main offerings.
+What We Offer (WCU) Section: Describes the services or products with cards that feature images, titles, and brief descriptions.
+Explore Menu Section: Displays various menu items, each with an image, title, and a link for more details.
+Healthy Food Section: A section that highlights healthy food options, accompanied by images and descriptions.
+Delivery & Payment Section: Provides information on delivery methods and payment options with images.
+Thanking Customers Section: Expresses gratitude to customers, enhancing user engagement and brand loyalty.
+Follow Us Section: Encourages users to follow the brand on social media, with styled icons representing different platforms.
+Footer Section: Contains contact information, email, and physical address in a clean and organized layout.
+CSS Styling
+Fonts: Uses Google Fonts like "Roboto," "Lobster," and "Bree Serif" to ensure readability and aesthetic appeal.
+Color Scheme: Utilizes a combination of soft blue, white, and gold (#d0b200) for a fresh, modern look. The background colors provide contrast, while the gold accent is used for call-to-action elements like buttons and links.
+Layout Design: The layout is responsive, using grid and flexbox techniques for easy alignment and organization. Sections are clearly separated for different categories, with card elements for showcasing offers and menu items.
+Buttons: Custom styles for primary (gold) and outline buttons, making them visually distinctive and functional.
+Images: Ensures images are properly sized and aligned within cards, menus, and sections to maintain visual balance.
+Icons: Social media icons and other decorative icons are styled to match the overall theme and are placed in circular containers.
+Overall, this combination of HTML structure and CSS styling ensures a well-organized, modern, and responsive food delivery website that enhances the user experience with clear navigation, compelling visuals, and interactive elements.
