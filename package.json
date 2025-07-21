@@ -4,10 +4,10 @@
   "description": "A modern food delivery website",
   "main": "index.html",
   "scripts": {
-    "dev": "npx serve . -p 3000",
-    "start": "npx serve . -p 3000",
+    "dev": "serve . -p 3000",
+    "start": "serve . -p 3000",
     "build": "echo 'Build complete - static files ready'",
-    "preview": "npx serve . -p 4173"
+    "preview": "serve . -p 4173"
   },
   "keywords": ["food", "delivery", "restaurant", "website"],
   "author": "",
